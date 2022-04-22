@@ -1,2 +1,2 @@
-*.pyc
-*.swp
+data
+**/__pycache__
