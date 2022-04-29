@@ -6,7 +6,7 @@ import torch
 import torchvision.datasets as dset
 import numpy as np
 import preproc
-
+    
 
 def get_data(dataset, data_path, cutout_length, validation):
     """ Get torchvision dataset """
